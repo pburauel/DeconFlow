@@ -2,9 +2,7 @@
 
 This repository is the official code base accompanying our paper
 
-<a href="https://arxiv.org/abs/2408.05647v1">Controlling for Discrete Unmeasured Confounding in Nonlinear Causal Models</a> by Patrick Burauel, Frederick Eberhardt, and Michel Besserve.
-
-Burauel, P., Eberhardt, F., & Besserve, M. (2025). Controlling for discrete unmeasured confounding in nonlinear causal models. Proceedings of Machine Learning Research, 275, 1–25. 4th Conference on Causal Learning and Reasoning.
+Burauel, P., Eberhardt, F., & Besserve, M. (2025). <a href="https://arxiv.org/abs/2408.05647v1">Controlling for Discrete Unmeasured Confounding in Nonlinear Causal Models</a>. Proceedings of Machine Learning Research, 275, 1–25. 4th Conference on Causal Learning and Reasoning.
 
 
 main_deconflow.py is the main file from which ray tune experiments are started
