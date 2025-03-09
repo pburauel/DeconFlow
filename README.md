@@ -2,7 +2,7 @@
 
 This repository is the official code base accompanying our paper
 
-<a href="https://arxiv.org/abs/2408.05647v1">Controlling for Discrete Unmeasured Confounding in Nonlinear Causal Models</a>.
+<a href="https://arxiv.org/abs/2408.05647v1">Controlling for Discrete Unmeasured Confounding in Nonlinear Causal Models</a> by Patrick Burauel, Frederick Eberhardt, and Michel Besserve.
 
 
 
