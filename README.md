@@ -1,5 +1,9 @@
 # DeconFlow
-Implementation of DeconFlow algorithm
+
+This repository is the official code base accompanying our paper
+
+<a href="https://arxiv.org/abs/2408.05647v1">Controlling for Discrete Unmeasured Confounding in Nonlinear Causal Models</a>.
+
 
 
 main_deconflow.py is the main file from which ray tune experiments are started
